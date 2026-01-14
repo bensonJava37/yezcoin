@@ -1,0 +1,2 @@
+# yezcoin
+official yez coin 
